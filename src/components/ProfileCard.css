@@ -1,0 +1,7 @@
+img {
+    width: 100%;          /* Make the image take up the full width of the card */
+    height: 200px;        /* Fixed height to ensure uniformity */
+    object-fit: cover;    /* Keeps the image's aspect ratio while filling the card area */
+    border-radius: 4px;   /* Optional: Makes the image corners rounded */
+  }
+  
